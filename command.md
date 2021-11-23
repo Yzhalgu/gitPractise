@@ -10,6 +10,10 @@ Using readme file commit as an example
 
 Check the commit log starts from the latest one.
 
-`git reset --hard HEAD^
+`git reset --hard HEAD^`
 
-回退倒上一次提交`
+回退倒上一次提交, hard 后也可以添加指定版本号回退到特定commit
+
+`git reflog`
+
+to check the reference number of each commit
