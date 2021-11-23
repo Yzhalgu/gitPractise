@@ -30,5 +30,5 @@ Is the directory you can see such as gitPractise
 
 
 
-
+# git管理的是修改，而非文件本身
 
