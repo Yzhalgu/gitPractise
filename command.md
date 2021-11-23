@@ -31,4 +31,5 @@ Is the directory you can see such as gitPractise
 
 
 # git管理的是修改，而非文件本身
+Git管理的是修改，当你用git add命令后，在工作区的第一次修改被放入暂存区，准备提交，但是，在工作区的第二次修改并没有放入暂存区，所以，git commit只负责把暂存区的修改提交了，也就是第一次的修改被提交了，第二次的修改不会被提交。
 
